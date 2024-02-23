@@ -1,6 +1,6 @@
 {
-  "name": "@snorresovold/toPDF",
-  "version": "1.0.1",
+  "name": "@snorresovold/topdf",
+  "version": "1.0.2",
   "description": "converts a webpage (url) to a PDF including local ones",
   "main": "index.js",
   "scripts": {
